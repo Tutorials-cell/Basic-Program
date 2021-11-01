@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.exe
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.deps.json
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.json
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Bahulya\source\repos\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\Bahulya\source\repos\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.genruntimeconfig.cache
